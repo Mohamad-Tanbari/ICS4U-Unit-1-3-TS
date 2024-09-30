@@ -1,9 +1,9 @@
 /*
  * This program is a microwave simulator.
  *
- * @author Mohamad Tanbari
- * @version 1.0
- * @since 2024-9-27
+ * By: Mohamad Tanbari
+ * Version: 1.0
+ * Since: 2024-9-27
  */
 
 import { createPrompt } from 'bun-promptx'
